@@ -1,12 +1,12 @@
 # Why need UWP extention
 Universal Windows Platform (UWP). It has delicate UI by XAML. 
-But it can not support a lot of WIN32 function. 
-That is why we need UWP extention to unlimited it ability. 
+However, it does not support many WIN32 functions.
+This is why we require UWP extensions to enhance its capabilities
 
 # Project describe
 * Testing paltform: visual studio 2019
 * Minimum requirement: Win10, version 1809
-* Function describe: UWP through Windows Desktop Extensions for the UWP tool side loading Winform. Uwp can communicate with Winform, Winform can reply it.  
+* Function describe: UWP through Windows Desktop Extensions for the UWP tool side loading Winform. Uwp can communicate with Winform, Winform can reply to UWP.  
 * Compile sample: UWP can not run at any CPU, and target should set Windows Application Packaging Project.  
 ![image](https://github.com/testtestProblem/UWP_extention/assets/107662393/b60b14bc-4c7e-4bba-9e72-c146665b3147)
 
