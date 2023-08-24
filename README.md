@@ -1,7 +1,7 @@
-# Why need UWP extention
+# Why need UWP extension
 Universal Windows Platform (UWP). It has delicate UI by XAML. 
 However, it does not support many WIN32 functions.
-This is why we require UWP extensions to enhance its capabilities
+This is why we require UWP extensions to enhance its capabilities.
 
 # Project describe
 * Testing paltform: visual studio 2019
